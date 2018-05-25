@@ -35,6 +35,7 @@ ol {
     margin-left: auto;
     margin-right:auto;
     width: 50%;
+    list-style-type: none;
 }
 
 ul {
@@ -42,4 +43,5 @@ ul {
     margin-left: auto;
     margin-right:auto;
     width: 50%;
+    list-style-type:none;
 }
